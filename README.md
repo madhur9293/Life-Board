@@ -9,6 +9,8 @@ LifeBoard is a Streamlit app that helps you organize your life with tasks, event
 - Budget Tracker
 - Weather Info
 - Quote of the Day
+- Multiple Language Support
+- Theme or colour change
 
 ## How to Run
 
