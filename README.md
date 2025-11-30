@@ -17,4 +17,5 @@ LifeBoard is a Streamlit app that helps you organize your life with tasks, event
 2. Open the project folder where file is downloaded.
 3. Right click and open with CMD or terminal(you can directly open this folder path)
 4. After open terminal run this below code to open the Life Board Dashboard.
+
    **python -m streamlit run "Life Board.py"**
